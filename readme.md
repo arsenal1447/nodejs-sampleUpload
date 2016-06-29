@@ -20,7 +20,9 @@ study url:[http://www.cnblogs.com/zhongweiv/p/nodejs_express_formidable.html](ht
 
 ## 页面展示 
 
-![]()
+![](https://github.com/zxx1988328/nodejs-sampleUpload/blob/master/img/web_index.png)
 
 成功页面
+
+![](https://github.com/zxx1988328/nodejs-sampleUpload/blob/master/img/upload_success.png)
 
